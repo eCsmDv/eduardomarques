@@ -9,6 +9,8 @@
 </div>
 <div>
       <a href="https://www.instagram.com/du.portfolio.dv/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/eduardo-marques-841779228/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    
 </div>
 <div>
       
