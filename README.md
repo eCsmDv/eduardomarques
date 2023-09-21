@@ -1,9 +1,9 @@
 # eduardomarques
 <div>
-  <a hef="https://linktr.ee/du.portfolio.dv">Eduardo Marques</a> 
-🌐Proteção de dados
-⚙️Desenvolvedor de sistemas
-💻Planejamento de infraestrutura em TI
-@du.portfolio.dv
-https://linktr.ee/du.portfolio.dv
+<ul><a hef="https://linktr.ee/du.portfolio.dv">Eduardo Marques</a><u/>
+<ul>🌐Proteção de dados</ul>
+<ul>⚙️Desenvolvedor de sistemas</ul>
+<ul>💻Planejamento de infraestrutura em TI</ul>
+<ul>@du.portfolio.dv</ul>
+<ul>https://linktr.ee/du.portfolio.dv</ul>
 </div>
