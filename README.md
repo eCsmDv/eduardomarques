@@ -18,7 +18,7 @@
     <a href="" target="_black"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
     <a href="" target="_black"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a href="" target="_black"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a>
-    <a href="" target="_black"><img src="https://img.shields.io/pypi/pyversions/:packageName"></a>
+    <a href="" target="_black"><img src="https://img.shields.io/pypi/pyversions/:packageName[PyPI - Python Version]"></a>
 </div>
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eCsmDv&layout=compact&langs_count=16&theme=graywhite"/>
